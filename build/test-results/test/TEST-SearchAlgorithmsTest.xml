@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SearchAlgorithmsTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-11-18T22:45:51" hostname="LAPTOP-A7JHP2O2" time="0.029">
+  <properties/>
+  <testcase name="testLinearSearch()" classname="SearchAlgorithmsTest" time="0.02"/>
+  <testcase name="testExponentialSearch()" classname="SearchAlgorithmsTest" time="0.001"/>
+  <testcase name="testJumpSearch()" classname="SearchAlgorithmsTest" time="0.002"/>
+  <testcase name="testInterpolationSearch()" classname="SearchAlgorithmsTest" time="0.002"/>
+  <testcase name="testBinarySearch()" classname="SearchAlgorithmsTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
